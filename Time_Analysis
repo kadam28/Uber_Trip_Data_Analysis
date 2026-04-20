@@ -1,0 +1,25 @@
+📊 Key Metrics:
+Total Bookings: 103.7K
+Total Booking Value: $2M
+Total Trip Distance: 349K miles
+Average Trip Distance: 3 miles
+Average Trip Time: 16 minutes
+Average Booking Value: $14.98
+📈 Dashboard Features:
+🕒 Booking by Pickup Time
+Line chart showing how bookings vary across different hours of the day
+Peak demand observed around midday (10 AM–12 PM)
+Lower demand during early morning and late night hours
+📅 Weekly Booking Trends
+Day-wise analysis (Mon–Sun) of booking values
+Higher bookings typically observed on weekends (Saturday & Sunday)
+Mid-week shows moderate demand fluctuations
+🔥 Heatmap Analysis (Hour vs Day)
+Visual heatmap displaying booking intensity across:
+Hours (0–23)
+Days (Monday to Sunday)
+Darker shades represent higher booking values
+Helps identify peak hours and busiest days quickly
+📊 Hourly Distribution Bar Chart
+Side bar chart showing total bookings per hour
+Clearly highlights rush hours and low activity periods
