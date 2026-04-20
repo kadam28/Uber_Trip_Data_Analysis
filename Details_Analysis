@@ -1,0 +1,23 @@
+📊 Key Data Fields:
+Trip ID – Unique identifier for each trip
+Pickup Date – Date of the ride
+Vehicle Type – UberX, Uber Black, Uber Comfort, UberXL, Uber Green
+Payment Type – Uber Pay, Cash
+Passenger Count – Number of passengers per trip
+Total Trip Distance – Distance covered in miles
+Total Booking Value – Fare amount per trip
+Pickup Location – Location ID of pickup
+Hour Information – Time-based trip tracking
+📈 Dashboard Features:
+Tabular View: Displays complete trip-level data in a structured format
+Data Filtering: Users can scroll and analyze specific trips easily
+Vehicle Insights: Compare performance across different vehicle types
+Payment Analysis: Understand usage of cash vs digital payments
+Passenger Trends: Identify ride-sharing patterns (single vs multiple passengers)
+Distance & Fare Analysis: Track how distance impacts booking value
+📊 Summary Metrics (Bottom Total Row):
+Total Passengers: 146,478
+Total Trip Distance: 348,933.81 miles
+Total Booking Value: $1,553,673
+Total Pickup Locations Count: 140,768
+Total Bookings: 103,728
